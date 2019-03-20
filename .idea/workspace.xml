@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87bace55-3c05-487d-88dd-083a4ff821ba" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/pythonChallenge$test_risk.coverage" NAME="test_risk Coverage Results" MODIFIED="1552884507936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Risk" />
+    <SUITE FILE_PATH="coverage/pythonChallenge$Unittests_for_test_crossword_TestCrossword_test_basic_case6.coverage" NAME="Unittests for test_crossword.TestCrossword.test_basic_case6 Coverage Results" MODIFIED="1552893982973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrossWord" />
+    <SUITE FILE_PATH="coverage/pythonChallenge$Unittests_in_test_risk_py.coverage" NAME="Unittests in test_risk.py Coverage Results" MODIFIED="1552892072029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Risk" />
+    <SUITE FILE_PATH="coverage/pythonChallenge$Unittests_for_test_risk_TestRisk.coverage" NAME="Unittests for test_risk.TestRisk Coverage Results" MODIFIED="1552892065742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Risk" />
+    <SUITE FILE_PATH="coverage/pythonChallenge$Unittests_for_test_crossword_TestCrossword_test_basic_case4.coverage" NAME="Unittests for test_crossword.TestCrossword.test_basic_case4 Coverage Results" MODIFIED="1552892880159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrossWord" />
+    <SUITE FILE_PATH="coverage/pythonChallenge$main.coverage" NAME="main Coverage Results" MODIFIED="1552884503055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Risk" />
+    <SUITE FILE_PATH="coverage/pythonChallenge$Unittests_in_test_crossword_py.coverage" NAME="Unittests in test_crossword.py Coverage Results" MODIFIED="1552894215947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrossWord" />
+    <SUITE FILE_PATH="coverage/pythonChallenge$Unittests_for_test_crossword_TestRisk.coverage" NAME="Unittests for test_crossword.TestRisk Coverage Results" MODIFIED="1552887817374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrossWord" />
+    <SUITE FILE_PATH="coverage/pythonChallenge$Unittests_for_test_crossword_TestRisk_test_basic_case.coverage" NAME="Unittests for test_crossword.TestRisk.test_basic_case Coverage Results" MODIFIED="1552887878240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrossWord" />
+    <SUITE FILE_PATH="coverage/pythonChallenge$Unittests_for_test_trafficSimulator_TrafficSimulator.coverage" NAME="Unittests for test_trafficSimulator.TrafficSimulator Coverage Results" MODIFIED="1552886774703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TrafficSimulator" />
+    <SUITE FILE_PATH="coverage/pythonChallenge$Unittests_for_test_crossword_TestCrossword_test_basic_case5.coverage" NAME="Unittests for test_crossword.TestCrossword.test_basic_case5 Coverage Results" MODIFIED="1552893130912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrossWord" />
+    <SUITE FILE_PATH="coverage/pythonChallenge$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1552865898190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrossWord" />
+    <SUITE FILE_PATH="coverage/pythonChallenge$Unittests_for_test_trafficSimulator_TestRisk.coverage" NAME="Unittests for test_trafficSimulator.TestRisk Coverage Results" MODIFIED="1552884999607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TrafficSimulator" />
+    <SUITE FILE_PATH="coverage/pythonChallenge$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1552888973576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrossWord" />
+    <SUITE FILE_PATH="coverage/pythonChallenge$Unittests_for_test_crossword_TestCrossword_test_basic_case3.coverage" NAME="Unittests for test_crossword.TestCrossword.test_basic_case3 Coverage Results" MODIFIED="1552892925890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrossWord" />
+    <SUITE FILE_PATH="coverage/pythonChallenge$Unittests_for_test_crossword_TestCrossword.coverage" NAME="Unittests for test_crossword.TestCrossword Coverage Results" MODIFIED="1552892846627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrossWord" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="48754813">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="37" />
+          <entry key="py" value="5605" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="37" />
+          <entry key="Python" value="5605" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Risk/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <marker date="1552884735483" expanded="true" signature="15:16" ph="..." />
+                <marker date="1552884735483" expanded="true" signature="701:702" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TrafficSimulator/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="39" column="46" selection-start-line="39" selection-start-column="46" selection-end-line="39" selection-end-column="46" />
+              <folding>
+                <marker date="1552885980218" expanded="true" signature="638:639" ph="..." />
+                <marker date="1552885980218" expanded="true" signature="638:643" ph="..." />
+                <marker date="1552885980218" expanded="true" signature="1547:1645" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TrafficSimulator/test_trafficSimulator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+              <folding>
+                <element signature="e#0#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Risk/test_risk.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+                <marker date="1552886367507" expanded="true" signature="89:188" ph="..." />
+                <marker date="1552886367507" expanded="true" signature="228:237" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CrossWord/test_crossword.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="84" column="66" selection-start-line="81" selection-start-column="42" selection-end-line="84" selection-end-column="66" />
+              <folding>
+                <element signature="e#0#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CrossWord/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="825">
+              <caret line="55" column="48" lean-forward="true" selection-start-line="55" selection-start-column="48" selection-end-line="55" selection-end-column="48" />
+              <folding>
+                <marker date="1552894136369" expanded="true" signature="2136:2138" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CrossWord/test.py" />
+        <option value="$PROJECT_DIR$/Risk/test.py" />
+        <option value="$PROJECT_DIR$/Risk/__init__.py" />
+        <option value="$PROJECT_DIR$/Risk/main.py" />
+        <option value="$PROJECT_DIR$/TrafficSimulator/main.py" />
+        <option value="$PROJECT_DIR$/Risk/test_risk.py" />
+        <option value="$PROJECT_DIR$/TrafficSimulator/test_trafficSimulator.py" />
+        <option value="$PROJECT_DIR$/CrossWord/main.py" />
+        <option value="$PROJECT_DIR$/CrossWord/test_crossword.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="121" />
+    <option name="y" value="56" />
+    <option name="width" value="1317" />
+    <option name="height" value="874" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pythonChallenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonChallenge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonChallenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonChallenge" type="462c0819:PsiDirectoryNode" />
+              <item name="CrossWord" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonChallenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonChallenge" type="462c0819:PsiDirectoryNode" />
+              <item name="Risk" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in test_crossword.py">
+    <configuration name="Unittests for test_crossword.TestCrossword.test_basic_case3" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="pythonChallenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CrossWord" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_crossword.TestCrossword.test_basic_case3&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_crossword.TestCrossword.test_basic_case4" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="pythonChallenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CrossWord" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_crossword.TestCrossword.test_basic_case4&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_crossword.TestCrossword.test_basic_case5" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="pythonChallenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CrossWord" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_crossword.TestCrossword.test_basic_case5&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_crossword.TestCrossword.test_basic_case6" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="pythonChallenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CrossWord" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_crossword.TestCrossword.test_basic_case6&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_crossword.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="pythonChallenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CrossWord" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/CrossWord/test_crossword.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests for test_crossword.TestCrossword.test_basic_case4" />
+      <item itemvalue="Python tests.Unittests for test_crossword.TestCrossword.test_basic_case5" />
+      <item itemvalue="Python tests.Unittests for test_crossword.TestCrossword.test_basic_case3" />
+      <item itemvalue="Python tests.Unittests in test_crossword.py" />
+      <item itemvalue="Python tests.Unittests for test_crossword.TestCrossword.test_basic_case6" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in test_crossword.py" />
+        <item itemvalue="Python tests.Unittests for test_crossword.TestCrossword.test_basic_case6" />
+        <item itemvalue="Python tests.Unittests for test_crossword.TestCrossword.test_basic_case5" />
+        <item itemvalue="Python tests.Unittests for test_crossword.TestCrossword.test_basic_case3" />
+        <item itemvalue="Python tests.Unittests for test_crossword.TestCrossword.test_basic_case4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87bace55-3c05-487d-88dd-083a4ff821ba" name="Default Changelist" comment="" />
+      <created>1552438875693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552438875693</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_crossword_TestCrossword_test_basic_case6 - 2019.03.18 at 00h 24m 21s.xml">
+      <configuration name="Unittests for test_crossword.TestCrossword.test_basic_case6" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_crossword_TestCrossword_test_basic_case6 - 2019.03.18 at 00h 24m 32s.xml">
+      <configuration name="Unittests for test_crossword.TestCrossword.test_basic_case6" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_crossword_TestCrossword_test_basic_case6 - 2019.03.18 at 00h 25m 30s.xml">
+      <configuration name="Unittests for test_crossword.TestCrossword.test_basic_case6" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_crossword_TestCrossword - 2019.03.18 at 00h 25m 30s.xml">
+      <configuration name="Unittests for test_crossword.TestCrossword" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_crossword_TestCrossword_test_basic_case6 - 2019.03.18 at 00h 26m 22s.xml">
+      <configuration name="Unittests for test_crossword.TestCrossword.test_basic_case6" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_crossword_TestCrossword_test_basic_case6 - 2019.03.18 at 00h 26m 35s.xml">
+      <configuration name="Unittests for test_crossword.TestCrossword.test_basic_case6" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_crossword_py - 2019.03.18 at 00h 28m 56s.xml">
+      <configuration name="Unittests in test_crossword.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_crossword_py - 2019.03.18 at 00h 29m 54s.xml">
+      <configuration name="Unittests in test_crossword.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_crossword_py - 2019.03.18 at 00h 30m 04s.xml">
+      <configuration name="Unittests in test_crossword.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_crossword_py - 2019.03.18 at 00h 30m 16s.xml">
+      <configuration name="Unittests in test_crossword.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="121" y="56" width="1317" height="874" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2627451" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44245523" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39897698" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32967034" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CrossWord/main.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CrossWord/main.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CrossWord/main.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Risk/__init__.py" />
+    <entry file="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="614" selection-start-line="614" selection-end-line="614" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Risk/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <marker date="1552884735483" expanded="true" signature="15:16" ph="..." />
+            <marker date="1552884735483" expanded="true" signature="701:702" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TrafficSimulator/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="46" selection-start-line="39" selection-start-column="46" selection-end-line="39" selection-end-column="46" />
+          <folding>
+            <marker date="1552885980218" expanded="true" signature="638:639" ph="..." />
+            <marker date="1552885980218" expanded="true" signature="638:643" ph="..." />
+            <marker date="1552885980218" expanded="true" signature="1547:1645" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TrafficSimulator/test_trafficSimulator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Risk/test_risk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+            <marker date="1552886367507" expanded="true" signature="89:188" ph="..." />
+            <marker date="1552886367507" expanded="true" signature="228:237" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CrossWord/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" column="48" lean-forward="true" selection-start-line="55" selection-start-column="48" selection-end-line="55" selection-end-column="48" />
+          <folding>
+            <marker date="1552894136369" expanded="true" signature="2136:2138" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CrossWord/test_crossword.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="84" column="66" selection-start-line="81" selection-start-column="42" selection-end-line="84" selection-end-column="66" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
